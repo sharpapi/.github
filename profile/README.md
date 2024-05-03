@@ -11,4 +11,7 @@ SharpAPI is an easy-to-use REST API endpoints to help automate your app AI conte
 [E-commerce](https://sharpapi.com/#ecommerce), [HR Tech](https://sharpapi.com/#hr), [Travel](https://sharpapi.com/#tth), [Tourism & Hospitality](https://sharpapi.com/#tth), [Content](https://sharpapi.com/#content) or [SEO](https://sharpapi.com/#seo).
 
 Check our [PHP](https://github.com/sharpapi/sharpapi-php-client) & [Laravel](https://github.com/sharpapi/sharpapi-laravel-client) Client packages. 
-NPM & .NET clients coming soon!
+
+[.NET SDK Client is available via NuGet](https://www.nuget.org/packages/SharpApi.Service)
+
+NodeJs/NPM client coming soon!
