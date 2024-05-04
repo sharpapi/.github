@@ -18,4 +18,4 @@ Check our:
 - [Laravel Client SDK Package](https://github.com/sharpapi/sharpapi-laravel-client)
 - [Flutter Client SDK Package](https://github.com/sharpapi/sharpapi-flutter-client)
 - [.NET SDK Client Package](https://www.nuget.org/packages/SharpApi.Service) (available via NuGet)
-- NodeJs/NPM Client Package coming soon (May 2024)!
+- NodeJs/NPM Client Package coming soon (May 2024)! Currently NodeJS code samples available at [Postman Documentation](https://documenter.getpostman.com/view/31106842/2s9Ye8faUp) (choose Language: NodeJS) 
