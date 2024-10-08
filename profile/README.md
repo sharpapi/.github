@@ -15,9 +15,10 @@ platform.
 SharpAPI is an easy-to-use REST API endpoints to help automate your app AI content processing whether it's:
 [E-commerce](https://sharpapi.com/#ecommerce), [HR Tech](https://sharpapi.com/#hr), [Travel](https://sharpapi.com/#tth), [Tourism & Hospitality](https://sharpapi.com/#tth), [Content](https://sharpapi.com/#content) or [SEO](https://sharpapi.com/#seo).
 
-Check our:
+Check our SharpAPI SDK Cient Packages:
+- [NodeJs/NPM SDK Package](https://github.com/sharpapi/sharpapi-node-client)
+- [Python Client SDK Package](https://github.com/sharpapi/sharpapi-python-client)
 - [PHP Client SDK Package](https://github.com/sharpapi/sharpapi-php-client)
 - [Laravel Client SDK Package](https://github.com/sharpapi/sharpapi-laravel-client)
 - [Flutter Client SDK Package](https://github.com/sharpapi/sharpapi-flutter-client)
 - [.NET SDK Client Package](https://www.nuget.org/packages/SharpApi.Service) (available via NuGet)
-- NodeJs/NPM Client Package coming soon (May 2024)! Currently NodeJS code samples available at [Postman Documentation](https://documenter.getpostman.com/view/31106842/2s9Ye8faUp) (choose Language: NodeJS) 
