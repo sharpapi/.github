@@ -22,9 +22,9 @@ jobs:
       with:
         php-version: '7.4'
     - name: Install Composer dependencies
-      run: composer install
+      run: pwd;composer install
     - name: Insert blog posts
-      run: php profile/posts.php
+      run: pwd;php ../profile/posts.php
     - name: Push changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
