@@ -1,0 +1,8 @@
+{
+    "name": "sharpapi/.github",
+    "description": "SharpAPI GitHub Page",
+    "type": "project",
+    "require": {
+        "dg/rss-php": "^1.5"
+    }
+}
