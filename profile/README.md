@@ -24,6 +24,12 @@ Check our SharpAPI SDK Cient Packages:
 - [.NET SDK Client Package](https://www.nuget.org/packages/SharpApi.Service) (available via NuGet)
 
 
+---
+
+## SharpAPI Blog Posts
+
+#### More at [SharpAPI.com/blog](https://sharpapi.com/en/blog)
+
 <!-- posts -->
 * **[03/11/2024]** [10 Ways AI with SharpAPI is Transforming Travel Tech](https://sharpapi.com/blog/post/10-ways-ai-with-sharpapi-is-transforming-travel-tech "10 Ways AI with SharpAPI is Transforming Travel Tech")
  > In an industry where time zones are crossed faster than you can finish a complimentary in-flight snack, AI has become the quiet co-pilot shaping every corner of travel. Imagine automating itinerary emails, categorizing unique stays, or instantly translating tour descriptions—all while you focus on delivering memorable experiences. SharpAPI brings this vision to life, offering a suite of AI-powered tools that not only simplify operations but add that extra spark to customer interactions, making travel smoother, smarter, and undeniably more exciting.
