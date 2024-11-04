@@ -24,7 +24,7 @@ jobs:
     - name: Install Composer dependencies
       run: pwd;composer install
     - name: Insert blog posts
-      run: pwd;php ../profile/posts.php
+      run: cd ../profile;php posts.php
     - name: Push changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
