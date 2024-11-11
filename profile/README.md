@@ -10,12 +10,11 @@
 
 ### Check [SharpAPI GitHub Page @ sharpapi.github.io](https://sharpapi.github.io/)
 
-Assisting coders with the most repetitive content analysis and content generation processing needs of any app or
-platform.
+Assisting coders with the most repetitive content analysis and content generation processing needs of any app or platform.
 SharpAPI is an easy-to-use REST API endpoints to help automate your app AI content processing whether it's:
 [E-commerce](https://sharpapi.com/#ecommerce), [HR Tech](https://sharpapi.com/#hr), [Travel](https://sharpapi.com/#tth), [Tourism & Hospitality](https://sharpapi.com/#tth), [Content](https://sharpapi.com/#content) or [SEO](https://sharpapi.com/#seo).
 
-Check our SharpAPI SDK Cient Packages:
+Check our SharpAPI SDK Client Packages:
 - [NodeJs/NPM SDK Package](https://github.com/sharpapi/sharpapi-node-client)
 - [Python Client SDK Package](https://github.com/sharpapi/sharpapi-python-client)
 - [PHP Client SDK Package](https://github.com/sharpapi/sharpapi-php-client)
@@ -23,6 +22,8 @@ Check our SharpAPI SDK Cient Packages:
 - [Flutter Client SDK Package](https://github.com/sharpapi/sharpapi-flutter-client)
 - [.NET SDK Client Package](https://www.nuget.org/packages/SharpApi.Service) (available via NuGet)
 
+You might also like our:
+- [SharpAPI AI Translator for Laravel Nova](https://github.com/sharpapi/nova-ai-translator)
 
 ---
 
