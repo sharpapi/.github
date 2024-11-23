@@ -23,7 +23,8 @@ Check our SharpAPI SDK Client Packages:
 - [.NET SDK Client Package](https://www.nuget.org/packages/SharpApi.Service) (available via NuGet)
 
 You might also like our:
-- [SharpAPI AI Translator for Laravel Nova](https://github.com/sharpapi/nova-ai-translator)
+- [AI Resume Parser for Laravel](https://github.com/sharpapi/laravel-resume-parser)
+- [AI Translator for Laravel Nova](https://github.com/sharpapi/nova-ai-translator)
 
 ---
 
