@@ -20,7 +20,7 @@ Check our SharpAPI SDK Client Packages:
 - [PHP Client SDK Package](https://github.com/sharpapi/sharpapi-php-client)
 - [Laravel Client SDK Package](https://github.com/sharpapi/sharpapi-laravel-client)
 - [Flutter Client SDK Package](https://github.com/sharpapi/sharpapi-flutter-client)
-- [.NET SDK Client Package](https://www.nuget.org/packages/SharpApi.Service) (available via NuGet)
+- [.NET SDK Client Package @NuGet](https://www.nuget.org/packages/SharpApi.Service) + [.NET SDK Client Documentation](https://github.com/sharpapi/sharpapi-dotnet-docs)
 
 You might also like our:
 - [AI Resume Parser for Laravel](https://github.com/sharpapi/laravel-resume-parser)
