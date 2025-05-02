@@ -34,12 +34,8 @@ You might also like our:
 #### More at [SharpAPI.com/blog](https://sharpapi.com/en/blog)
 
 <!-- posts -->
-* **[01/05/2025]** [Introducing Our Smartest Hiring API Yet: Resume Match Scoring Just Got an Upgrade](https://sharpapi.com/blog/post/introducing-our-smartest-hiring-api-yet-resume-match-scoring-just-got-an-upgrade "Introducing Our Smartest Hiring API Yet: Resume Match Scoring Just Got an Upgrade")
+* **[01/05/2025]** [Resume/CV & Job Description Match Scoring Just Got an Upgrade](https://sharpapi.com/blog/post/resume-cv-job-description-match-scoring-just-got-an-upgrade "Resume/CV & Job Description Match Scoring Just Got an Upgrade")
  > Hiring is hard. Sifting through dozens—if not hundreds—of resumes to find the right fit feels more like archaeology than recruitment. So we decided to fix that.
-
-Today, we're excited to introduce a new powerhouse in the SharpAPI family:
-
-🎯 **Resume/CV & Job Description Compatibility Scoring API**
 
 
 * **[01/04/2025]** [Job Positions API: Unlock Comprehensive HR Data](https://sharpapi.com/blog/post/job-positions-api "Job Positions API: Unlock Comprehensive HR Data")
