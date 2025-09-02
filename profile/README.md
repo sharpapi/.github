@@ -27,6 +27,16 @@ You might also like our:
 - [AI Resume & Job Description Matching for Laravel](https://github.com/sharpapi/laravel-resume-job-match-score)
 - [AI Translator for Laravel Nova](https://github.com/sharpapi/nova-ai-translator)
 
+<a href="https://trust.a2zweb.co/">
+  <img src="https://sharpapi.com/build/assets/a2zweb-soc2-Cb6pM2no.png" alt="SharpAPI SOC 2 Type II" width="200">
+</a>
+
+**We’re SOC 2 Type II certified!**
+
+Simply put, your data is in safe hands, and you can count on us to stay secure.  
+Check the details at our [Trust Portal](https://trust.a2zweb.co/).
+
+
 ---
 
 ## SharpAPI Blog Posts
