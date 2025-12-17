@@ -24,6 +24,7 @@ Check our SharpAPI SDK Client Packages:
 
 You might also like our:
 - [AI Resume Parser for Laravel](https://github.com/sharpapi/laravel-resume-parser)
+- [AI Resume Parser for PHP 8](https://github.com/sharpapi/php-resume-parser)
 - [AI Resume & Job Description Matching for Laravel](https://github.com/sharpapi/laravel-resume-job-match-score)
 - [AI Resume & Job Description Matching for PHP 8](https://github.com/sharpapi/php-resume-job-match-score)
 - [AI Translator for Laravel Nova](https://github.com/sharpapi/nova-ai-translator)
