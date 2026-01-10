@@ -14,20 +14,144 @@ Assisting coders with the most repetitive content analysis and content generatio
 SharpAPI is an easy-to-use REST API endpoints to help automate your app AI content processing whether it's:
 [E-commerce](https://sharpapi.com/#ecommerce), [HR Tech](https://sharpapi.com/#hr), [Travel](https://sharpapi.com/#tth), [Tourism & Hospitality](https://sharpapi.com/#tth), [Content](https://sharpapi.com/#content) or [SEO](https://sharpapi.com/#seo).
 
-Check our SharpAPI SDK Client Packages:
-- [NodeJs/NPM SDK Package](https://github.com/sharpapi/sharpapi-node-client)
-- [Python Client SDK Package](https://github.com/sharpapi/sharpapi-python-client)
-- [PHP Client SDK Package](https://github.com/sharpapi/sharpapi-php-client)
-- [Laravel Client SDK Package](https://github.com/sharpapi/sharpapi-laravel-client)
-- [Flutter Client SDK Package](https://github.com/sharpapi/sharpapi-flutter-client)
-- [.NET SDK Client Package @NuGet](https://www.nuget.org/packages/SharpApi.Service) + [.NET SDK Client Documentation](https://github.com/sharpapi/sharpapi-dotnet-docs)
+Check our most popular SharpAPI SDK Clients & Lib Packages:
 
-You might also like our:
 - [AI Resume Parser for Laravel](https://github.com/sharpapi/laravel-resume-parser)
 - [AI Resume Parser for PHP 8](https://github.com/sharpapi/php-resume-parser)
 - [AI Resume & Job Description Matching for Laravel](https://github.com/sharpapi/laravel-resume-job-match-score)
 - [AI Resume & Job Description Matching for PHP 8](https://github.com/sharpapi/php-resume-job-match-score)
 - [AI Translator for Laravel Nova](https://github.com/sharpapi/nova-ai-translator)
+- [Python Client SDK Package](https://github.com/sharpapi/sharpapi-python-client)
+- [Flutter Client SDK Package](https://github.com/sharpapi/sharpapi-flutter-client)
+- [.NET SDK Client Package @NuGet](https://www.nuget.org/packages/SharpApi.Service) + [.NET SDK Client Documentation](https://github.com/sharpapi/sharpapi-dotnet-docs)
+
+---
+
+# SharpAPI Laravel Client SDKs
+
+### 🛒 E-commerce
+
+| Package                              | Description                                                                                                           |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| laravel-ecommerce-product-intro      | [AI Product Introduction Generator for Laravel](https://github.com/sharpapi/laravel-ecommerce-product-intro)          |
+| laravel-ecommerce-review-sentiment   | [AI E-commerce Review Sentiment Analysis for Laravel](https://github.com/sharpapi/laravel-ecommerce-review-sentiment) |
+| laravel-ecommerce-product-categories | [AI E-commerce Product Categorization for Laravel](https://github.com/sharpapi/laravel-ecommerce-product-categories)  |
+| laravel-ecommerce-thank-you-email    | [AI Thank You Email Generator for Laravel](https://github.com/sharpapi/laravel-ecommerce-thank-you-email)             |
+
+---
+
+### 🧠 Content & Marketing Automation
+
+| Package                       | Description                                                                                            |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------ |
+| laravel-content-proofread     | [AI Proofreading & Grammar Checker for Laravel](https://github.com/sharpapi/laravel-content-proofread) |
+| laravel-content-detect-spam   | [AI Spam Detection for Laravel](https://github.com/sharpapi/laravel-content-detect-spam)               |
+| laravel-content-summarize     | [AI Text Summarization for Laravel](https://github.com/sharpapi/laravel-content-summarize)             |
+| laravel-content-paraphrase    | [AI Text Paraphrasing for Laravel](https://github.com/sharpapi/laravel-content-paraphrase)             |
+| laravel-content-translate     | [AI Text Translation for Laravel](https://github.com/sharpapi/laravel-content-translate)               |
+| laravel-content-detect-urls   | [AI URL Detection for Laravel](https://github.com/sharpapi/laravel-content-detect-urls)                |
+| laravel-content-keywords      | [AI Keywords Generator for Laravel](https://github.com/sharpapi/laravel-content-keywords)              |
+| laravel-content-detect-phones | [AI Phone Number Detection for Laravel](https://github.com/sharpapi/laravel-content-detect-phones)     |
+| laravel-content-detect-emails | [AI Email Detection for Laravel](https://github.com/sharpapi/laravel-content-detect-emails)            |
+
+---
+
+### 👷 HR Tech
+
+| Package                          | Description                                                                                                    |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| laravel-hr-related-skills        | [AI Related Skills Generator for Laravel](https://github.com/sharpapi/laravel-hr-related-skills)               |
+| laravel-resume-parser            | [AI Resume Parser for Laravel](https://github.com/sharpapi/laravel-resume-parser)                              |
+| laravel-resume-job-match-score   | [AI Resume-Job Match Scoring for Laravel](https://github.com/sharpapi/laravel-resume-job-match-score)          |
+| laravel-hr-job-description       | [AI Job Description Generator for Laravel](https://github.com/sharpapi/laravel-hr-job-description)             |
+| laravel-hr-related-job-positions | [AI Related Job Positions Generator for Laravel](https://github.com/sharpapi/laravel-hr-related-job-positions) |
+
+---
+
+### ✈️ Travel, Tourism & Hospitality
+
+| Package                                              | Description                                                                                                                                    |
+| ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| laravel-tth-hospitality-product-categories           | [AI Hospitality Product Categorization for Laravel](https://github.com/sharpapi/laravel-tth-hospitality-product-categories)                    |
+| laravel-tth-ta-product-categories                    | [AI Tours & Activities Product Categorization for Laravel](https://github.com/sharpapi/laravel-tth-ta-product-categories)                      |
+| laravel-tth-review-sentiment                         | [AI Travel Review Sentiment Analysis for Laravel](https://github.com/sharpapi/laravel-tth-review-sentiment)                                    |
+
+---
+
+### 🔍 SEO
+
+| Package                   | Description                                                                                |
+| ------------------------- | ------------------------------------------------------------------------------------------ |
+| laravel-seo-generate-tags | [AI SEO Tags Generator for Laravel](https://github.com/sharpapi/laravel-seo-generate-tags) |
+
+---
+
+### 🧰 Utility APIs
+
+| Package                  | Description                                                                          |
+| ------------------------ | ------------------------------------------------------------------------------------ |
+| laravel-airports-database-flight-duration-calculator | [Airports Database & Flight Duration Calculator for Laravel](https://github.com/sharpapi/laravel-airports-database-flight-duration-calculator) |
+| laravel-job-positions-api        | [Job Positions Database API for Laravel](https://github.com/sharpapi/laravel-job-positions-api)                |
+| laravel-skills-database-api      | [Skills Database API for Laravel](https://github.com/sharpapi/laravel-skills-database-api)                     |
+| laravel-web-scraping-api | [Web Scraping API for Laravel](https://github.com/sharpapi/laravel-web-scraping-api) |
+
+
+# SharpAPI PHP Client SDKs
+
+### 📝 Content & Marketing Automation
+
+| Package | Description | Installation |
+|---------|-------------|--------------|
+| [php-content-summarize-text](https://packagist.org/packages/sharpapi/php-content-summarize-text) | AI-powered text summarization | `composer require sharpapi/php-content-summarize-text` |
+| [php-content-text-translator](https://packagist.org/packages/sharpapi/php-content-text-translator) | Advanced text translator (80+ languages) | `composer require sharpapi/php-content-text-translator` |
+| [php-content-paraphrase-text](https://packagist.org/packages/sharpapi/php-content-paraphrase-text) | Paraphrase and rephrase content | `composer require sharpapi/php-content-paraphrase-text` |
+| [php-content-proofread-grammar](https://packagist.org/packages/sharpapi/php-content-proofread-grammar) | Proofread text and check grammar | `composer require sharpapi/php-content-proofread-grammar` |
+| [php-content-keywords-tags](https://packagist.org/packages/sharpapi/php-content-keywords-tags) | Generate keywords and tags from content | `composer require sharpapi/php-content-keywords-tags` |
+| [php-content-spam-detector](https://packagist.org/packages/sharpapi/php-content-spam-detector) | Detect spam content with confidence score | `composer require sharpapi/php-content-spam-detector` |
+| [php-content-phone-detector](https://packagist.org/packages/sharpapi/php-content-phone-detector) | Extract and format phone numbers | `composer require sharpapi/php-content-phone-detector` |
+| [php-content-url-detector](https://packagist.org/packages/sharpapi/php-content-url-detector) | Extract and validate URLs from text | `composer require sharpapi/php-content-url-detector` |
+| [php-content-email-detector](https://packagist.org/packages/sharpapi/php-content-email-detector) | Extract and validate email addresses | `composer require sharpapi/php-content-email-detector` |
+
+### 🛒 E-commerce
+
+| Package | Description | Installation |
+|---------|-------------|--------------|
+| [php-ecommerce-product-review-sentiment](https://packagist.org/packages/sharpapi/php-ecommerce-product-review-sentiment) | Analyze product review sentiment | `composer require sharpapi/php-ecommerce-product-review-sentiment` |
+| [php-ecommerce-product-categorization](https://packagist.org/packages/sharpapi/php-ecommerce-product-categorization) | Categorize products with AI | `composer require sharpapi/php-ecommerce-product-categorization` |
+| [php-ecommerce-product-intro-generator](https://packagist.org/packages/sharpapi/php-ecommerce-product-intro-generator) | Generate product introductions | `composer require sharpapi/php-ecommerce-product-intro-generator` |
+| [php-ecommerce-thank-you-email](https://packagist.org/packages/sharpapi/php-ecommerce-thank-you-email) | Generate personalized thank you emails | `composer require sharpapi/php-ecommerce-thank-you-email` |
+
+### 🧑‍💻 HR Tech
+
+| Package | Description | Installation |
+|---------|-------------|--------------|
+| [php-hr-related-skills](https://packagist.org/packages/sharpapi/php-hr-related-skills) | Find related skills with relevance scores | `composer require sharpapi/php-hr-related-skills` |
+| [php-hr-related-job-positions](https://packagist.org/packages/sharpapi/php-hr-related-job-positions) | Find similar job positions | `composer require sharpapi/php-hr-related-job-positions` |
+| [php-hr-job-description-generator](https://packagist.org/packages/sharpapi/php-hr-job-description-generator) | Generate professional job descriptions | `composer require sharpapi/php-hr-job-description-generator` |
+
+### ✈️ Travel, Tourism & Hospitality
+
+| Package | Description | Installation |
+|---------|-------------|--------------|
+| [php-travel-review-sentiment](https://packagist.org/packages/sharpapi/php-travel-review-sentiment) | Analyze travel review sentiment | `composer require sharpapi/php-travel-review-sentiment` |
+| [php-travel-hospitality-categorization](https://packagist.org/packages/sharpapi/php-travel-hospitality-categorization) | Categorize hospitality products | `composer require sharpapi/php-travel-hospitality-categorization` |
+| [php-travel-tours-activities-categorization](https://packagist.org/packages/sharpapi/php-travel-tours-activities-categorization) | Categorize tours and activities | `composer require sharpapi/php-travel-tours-activities-categorization` |
+
+### 🔍 SEO
+
+| Package | Description | Installation |
+|---------|-------------|--------------|
+| [php-seo-tags-generator](https://packagist.org/packages/sharpapi/php-seo-tags-generator) | Generate SEO and social media META tags | `composer require sharpapi/php-seo-tags-generator` |
+
+### 🛠️ Utilities
+
+| Package | Description | Installation |
+|---------|-------------|--------------|
+| [php-utility-airports](https://packagist.org/packages/sharpapi/php-utility-airports) | Global airports database (30,000+ airports) | `composer require sharpapi/php-utility-airports` |
+| [php-utility-job-positions](https://packagist.org/packages/sharpapi/php-utility-job-positions) | Job positions database API | `composer require sharpapi/php-utility-job-positions` |
+
+---
+
 
 <a href="https://trust.a2zweb.co/">
   <img src="https://sharpapi.com/build/assets/a2zweb-soc2-Cb6pM2no.png" alt="SharpAPI SOC 2 Type II" width="200">
