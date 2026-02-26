@@ -220,7 +220,7 @@ Check the details at our [Trust Portal](https://trust.a2zweb.co/).
 #### More at [SharpAPI.com/blog](https://sharpapi.com/en/blog)
 
 <!-- posts -->
-* **[22/02/2026]** [Invoice Parsing API - Extract Structured Data from Any Invoice](https://sharpapi.com/blog/post/invoice-parsing-api-extract-structured-data-from-any-invoice "Invoice Parsing API - Extract Structured Data from Any Invoice")
+* **[25/02/2026]** [Invoice Parsing API - Extract Structured Data from Any Invoice](https://sharpapi.com/blog/post/invoice-parsing-api-extract-structured-data-from-any-invoice "Invoice Parsing API - Extract Structured Data from Any Invoice")
  > If you've ever spent an afternoon squinting at invoices, copy-pasting vendor names into spreadsheets, and manually tallying line items - first of all, we're sorry. Second of all, that era is officially over. The new Invoice Parsing endpoint takes any invoice file - whether it's a crisp PDF, a slightly crumpled photo from your phone, or a scanned TIFF from that ancient office scanner - and returns a beautifully structured JSON object packed with every data point you could possibly need.
 
 
