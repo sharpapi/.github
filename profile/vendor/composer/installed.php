@@ -3,7 +3,7 @@
         'name' => 'sharpapi/sharpapi',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '0488c8d1bd1e6fb8a3f53dd6670b40098ae47f39',
+        'reference' => '7c481de1ed92a4630c2c3b1735044983e80d98dd',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -22,7 +22,7 @@
         'sharpapi/sharpapi' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '0488c8d1bd1e6fb8a3f53dd6670b40098ae47f39',
+            'reference' => '7c481de1ed92a4630c2c3b1735044983e80d98dd',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
