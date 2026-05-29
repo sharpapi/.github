@@ -202,6 +202,33 @@
 | @sharpapi/sharpapi-node-skills-database | [Skills Database API for Node.js](https://sharpapi.com/en/catalog/utility/skills-database-api) |
 | @sharpapi/sharpapi-node-web-scraping | [Web Scraping API for Node.js](https://sharpapi.com/en/catalog/utility/web-scraping-api) |
 
+---
+## Powered by SharpAPI
+
+Real products built on top of SharpAPI's AI infrastructure. See the full showcase at [sharpapi.com/powered-by-sharpapi](https://sharpapi.com/en/powered-by-sharpapi).
+
+### [BrandGEO](https://brandgeo.co) — AI Brand Visibility & GEO
+
+**Discover how AI sees your brand.** [BrandGEO](https://brandgeo.co) is a Generative Engine Optimization (GEO) platform that monitors how leading AI models (ChatGPT, Claude, Gemini, Grok and DeepSeek) describe your brand. While traditional SEO measures Google rankings, BrandGEO quantifies a newly critical acquisition channel: 44% of US consumers now treat AI search as their primary source for purchase decisions, yet only 16% of brands track this systematically.
+
+* Six measurement dimensions: Recognition, Knowledge Depth, Competitive Context, Sentiment & Authority, Contextual Recall, AI Discoverability
+* Automated weekly scans across five AI providers with drop alerts when visibility declines 10%+
+* Competitor benchmarking against up to 20 competitors
+* White-label PDF reports for agencies and AI consultants
+
+> **Built with SharpAPI:** BrandGEO runs on SharpAPI's [Custom AI Workflows](https://sharpapi.com/en/catalog) to orchestrate prompts across multiple LLM providers in parallel.
+
+### [CV Match Score](https://cvmatchscore.com) — AI Recruitment & Resume Matching
+
+**Stop guessing. AI tells you how well any CV matches the job, in seconds.** [CV Match Score](https://cvmatchscore.com) is an AI-powered resume-to-job-description matching tool that goes beyond keyword-based ATS screening. It performs semantic analysis across 20+ scoring dimensions (skills, experience relevance, technical stack alignment, soft skills, cultural fit, stability, management experience and location preferences), giving job seekers a clear edge and recruiters data-driven hiring signals in under two minutes.
+
+* Semantic AI matching across 20+ scoring dimensions with written explanations per dimension
+* Multi-format input: PDF, DOC, DOCX, TXT and RTF resumes and job descriptions
+* Multi-language CV analysis and report generation, language-agnostic semantic scoring
+* Raw JSON access for ATS integration; free tier up to 10 reports
+
+> **Built with SharpAPI:** CV Match Score is powered by SharpAPI's [HR & Recruitment AI endpoints](https://sharpapi.com/en/catalog/ai/hr-tech) for resume parsing, scoring and multilingual semantic analysis.
+
 
 <a href="https://trust.a2zweb.co/">
   <img src="https://sharpapi.com/build/assets/a2zweb-soc2-Cb6pM2no.png" alt="SharpAPI SOC 2 Type II" width="200">
